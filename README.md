@@ -97,4 +97,3 @@ Instruction Set documentation: docs/instruction_set.md
 👨‍💻 Contributors
 Manohar KM – Developer & Verilog Engineer
 
-Srinivasamurthy Sir – Supervisor, Associate Professor
